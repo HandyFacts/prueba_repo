@@ -11,4 +11,5 @@
 - 
 
 ## Data Analysis
+- Iván Rojas Gallego
 - 
