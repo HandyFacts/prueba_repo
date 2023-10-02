@@ -11,5 +11,5 @@
 - 
 
 ## Data Analysis
-- Iván Rojas Gallego
+- Iván Rojas Gallego (Pull Request #2)
 - 
